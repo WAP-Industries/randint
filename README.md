@@ -1,4 +1,3 @@
-### Challenge  
 Python Compuwuting Test (Graded) (EOY)
 
 Question 1 [42m]
